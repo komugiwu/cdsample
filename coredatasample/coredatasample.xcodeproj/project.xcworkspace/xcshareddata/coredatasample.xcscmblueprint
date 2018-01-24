@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "83BFA9AC709B5C94044B509BAC10D17FC8C49740",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "83BFA9AC709B5C94044B509BAC10D17FC8C49740" : 9223372036854775807,
+    "CAB033DB29351E78F100D243BE80CEB999275EEC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "24A1FEE7-5F18-4BCB-AC61-5A9B9D814EA5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "83BFA9AC709B5C94044B509BAC10D17FC8C49740" : "coredatasample\/",
+    "CAB033DB29351E78F100D243BE80CEB999275EEC" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "coredatasample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "coredatasample\/coredatasample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/SuzukiMasami\/coredatasample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "83BFA9AC709B5C94044B509BAC10D17FC8C49740"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/iti_tokyo\/--------.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CAB033DB29351E78F100D243BE80CEB999275EEC"
+    }
+  ]
+}
